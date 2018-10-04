@@ -179,5 +179,8 @@ void main()
 		hp = &h;
 		hp->age; //обращение через указатель
 	}
+
+
+
 	system("pause");
 }
